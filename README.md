@@ -87,9 +87,9 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
-![alt text](<../Screenshot 2026-11-14 160635.png>)
+![alt text](<Screenshot 2026-11-14 160635.png>)
 ## OUTPUT:
-![alt text](<../Screenshot 2026-11-14 160654.png>)
+![alt text](<Screenshot 2026-11-14 160654.png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
 
